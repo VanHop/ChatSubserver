@@ -1,0 +1,70 @@
+05/07 09:58:38 SubServer started
+05/07 09:58:38 Server start listening on 6666
+05/07 09:58:38 đã kết nối với MainServer
+05/07 09:59:10 a đã đăng nhập
+05/07 10:02:37 SubServer started
+05/07 10:02:37 Server start listening on 6666
+05/07 10:02:37 đã kết nối với MainServer
+05/07 10:03:05 a đã đăng nhập
+05/07 10:31:25 mất kết nối tới MainServer
+05/07 11:42:35 SubServer started
+05/07 11:42:35 Server start listening on 6666
+05/07 11:42:35 đã kết nối với MainServer
+05/07 11:42:55 a đã đăng nhập
+05/07 11:43:30 a đã gửi 1 tin nhắn cho b
+05/07 11:49:36 a đã gửi 1 tin nhắn cho c
+05/07 11:50:04 mất kết nối tới MainServer
+05/07 11:50:04 SubServer stopped
+05/07 11:50:49 a đã thoát
+05/07 11:50:49 SubServer started
+05/07 11:50:49 Server start listening on 6666
+05/07 11:50:49 đã kết nối với MainServer
+05/07 11:53:52 mất kết nối tới MainServer
+05/07 14:30:39 SubServer started
+05/07 14:30:39 Server start listening on 6666
+05/07 14:30:39 đã kết nối với MainServer
+05/07 14:31:16 a đã đăng nhập
+05/07 14:31:29 b đã đăng nhập
+05/07 14:32:34 a đã gửi 1 tin nhắn cho b
+05/07 14:32:47 a đã gửi 1 tin nhắn cho c
+05/07 14:33:58 a đã gửi 1 tin nhắn cho c
+05/07 14:34:21 a đã thoát
+05/07 14:34:21 b đã thoát
+05/07 14:34:21 SubServer stopped
+05/07 14:38:44 SubServer started
+05/07 14:38:44 Server start listening on 6666
+05/07 14:38:44 đã kết nối với MainServer
+05/07 14:39:14 a đã đăng nhập
+05/07 14:39:24 b đã đăng nhập
+05/07 14:40:29 a đã thoát
+05/07 14:40:52 SubServer stopped
+05/07 14:41:57 Không thể gửi tin nhắn cho c
+05/07 14:42:23 b đã thoát
+05/07 14:45:47 SubServer started
+05/07 14:45:47 Server start listening on 6666
+05/07 14:45:47 mất kết nối tới MainServer
+05/07 14:45:47 đã kết nối với MainServer
+05/07 14:46:04 a đã đăng nhập
+05/07 14:46:13 b đã đăng nhập
+05/07 14:46:38 a đã gửi 1 tin nhắn cho b
+05/07 14:46:44 a đã gửi 1 tin nhắn cho c
+05/07 14:47:23 a đã gửi 1 tin nhắn cho c
+05/07 14:50:44 SubServer started
+05/07 14:50:44 mất kết nối tới MainServer
+05/07 14:50:44 Server start listening on 6666
+05/07 14:50:44 đã kết nối với MainServer
+05/07 14:51:21 a đã đăng nhập
+05/07 14:51:31 b đã đăng nhập
+05/07 14:52:38 a đã gửi 1 tin nhắn cho c
+05/07 14:52:57 a đã thoát
+05/07 14:53:00 b đã thoát
+05/07 14:53:13 mất kết nối tới MainServer
+05/07 21:12:18 SubServer started
+05/07 21:12:18 mất kết nối tới MainServer
+05/07 21:12:18 Server start listening on 6666
+05/07 21:12:18 đã kết nối với MainServer
+05/07 21:12:50 a đã đăng nhập
+05/07 21:13:16 c đã đăng nhập
+05/07 21:13:28 a đã thoát
+05/07 21:13:28 c đã thoát
+05/07 21:13:28 SubServer stopped

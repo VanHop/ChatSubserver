@@ -1,0 +1,859 @@
+02/07 08:41:02 SubServer1 started
+02/07 08:41:02 Server start listening on 6666
+02/07 08:41:02 đã kết nối với MainServer
+02/07 08:41:07 SubServer2 started
+02/07 08:41:07 Server start listening on 7777
+02/07 08:41:07 đã kết nối với MainServer
+02/07 08:41:09 SubServer3 started
+02/07 08:41:09 Server start listening on 8888
+02/07 08:41:09 đã kết nối với MainServer
+02/07 08:41:22 a đã đăng nhập
+02/07 08:41:30 b đã đăng nhập
+02/07 08:41:35 c đã đăng nhập
+02/07 08:41:53 Thread destroyed
+02/07 08:41:53 mất kết nối tới MainServer
+02/07 08:42:18 a đã gửi 1 tin nhắn cho b
+02/07 08:44:05 a đã thoát
+02/07 08:44:08 b đã thoát
+02/07 08:44:11 c đã thoát
+02/07 08:44:18 SubServer1 started
+02/07 08:44:18 Server start listening on 6666
+02/07 08:44:18 đã kết nối với MainServer
+02/07 08:44:34 Thread destroyed
+02/07 08:45:51 SubServer1 started
+02/07 08:45:51 Server start listening on 6666
+02/07 08:45:54 SubServer2 started
+02/07 08:45:54 Server start listening on 7777
+02/07 08:45:56 SubServer3 started
+02/07 08:45:56 Server start listening on 8888
+02/07 08:46:08 a đã đăng nhập
+02/07 08:46:15 b đã đăng nhập
+02/07 08:46:25 Thread destroyed
+02/07 08:46:25 mất kết nối tới MainServer
+02/07 08:46:34 Không thể gửi tin nhắn cho b
+02/07 08:47:32 a đã thoát
+02/07 08:47:35 b đã thoát
+02/07 08:47:39 SubServer1 started
+02/07 08:47:39 Server start listening on 6666
+02/07 08:47:39 đã kết nối với MainServer
+02/07 08:47:49 a đã đăng nhập
+02/07 08:47:56 b đã đăng nhập
+02/07 08:48:07 Thread destroyed
+02/07 08:48:07 mất kết nối tới MainServer
+02/07 08:48:07 a đã thoát
+02/07 08:50:59 b đã thoát
+02/07 08:51:22 SubServer1 started
+02/07 08:51:22 Server start listening on 6666
+02/07 08:51:22 đã kết nối với MainServer
+02/07 08:51:35 a đã đăng nhập
+02/07 08:51:41 b đã đăng nhập
+02/07 08:51:51 Thread destroyed
+02/07 08:51:51 a đã thoát
+02/07 08:51:51 mất kết nối tới MainServer
+02/07 08:52:18 b đã thoát
+02/07 08:52:50 SubServer1 started
+02/07 08:52:50 Server start listening on 6666
+02/07 08:52:58 a đã đăng nhập
+02/07 08:53:05 b đã đăng nhập
+02/07 08:53:16 Thread destroyed
+02/07 08:53:31 a đã thoát
+02/07 08:55:10 mất kết nối tới MainServer
+02/07 08:57:11 SubServer1 started
+02/07 08:57:11 Server start listening on 6666
+02/07 08:57:19 a đã đăng nhập
+02/07 08:57:28 b đã đăng nhập
+02/07 08:57:35 a đã thoát
+02/07 08:57:35 Thread destroyed
+02/07 08:57:35 mất kết nối tới MainServer
+02/07 08:57:47 b đã thoát
+02/07 08:59:42 SubServer1 started
+02/07 08:59:42 Server start listening on 6666
+02/07 08:59:50 a đã đăng nhập
+02/07 08:59:57 b đã đăng nhập
+02/07 09:00:06 Thread destroyed
+02/07 09:00:16 a đã thoát
+02/07 09:01:59 SubServer1 started
+02/07 09:01:59 Server start listening on 6666
+02/07 09:02:08 a đã đăng nhập
+02/07 09:02:13 b đã đăng nhập
+02/07 09:02:19 Thread destroyed
+02/07 09:02:19 a đã thoát
+02/07 09:02:19 b đã thoát
+02/07 09:02:19 mất kết nối tới MainServer
+02/07 09:06:01 SubServer1 started
+02/07 09:06:01 Server start listening on 6666
+02/07 09:06:01 đã kết nối với MainServer
+02/07 09:06:06 SubServer2 started
+02/07 09:06:06 Server start listening on 7777
+02/07 09:06:06 đã kết nối với MainServer
+02/07 09:06:10 SubServer3 started
+02/07 09:06:10 Server start listening on 8888
+02/07 09:06:10 đã kết nối với MainServer
+02/07 09:06:22 a đã đăng nhập
+02/07 09:06:29 b đã đăng nhập
+02/07 09:06:34 c đã đăng nhập
+02/07 09:06:48 a đã gửi 1 tin nhắn cho b
+02/07 09:06:57 a đã gửi 1 tin nhắn cho c
+02/07 09:06:58 c đã nhận được tin nhắn của a
+02/07 09:07:13 a đã tạo group di choi
+02/07 09:07:14 c đã được thêm vào group di choi
+02/07 09:07:45 mất kết nối tới MainServer
+02/07 09:07:45 mất kết nối tới MainServer
+02/07 09:07:45 mất kết nối tới MainServer
+02/07 09:07:46 a đã thoát
+02/07 09:07:46 b đã thoát
+02/07 09:07:47 c đã thoát
+02/07 09:09:57 SubServer1 started
+02/07 09:09:57 Server start listening on 6666
+02/07 09:09:57 đã kết nối với MainServer
+02/07 09:10:01 SubServer2 started
+02/07 09:10:01 Server start listening on 7777
+02/07 09:10:01 đã kết nối với MainServer
+02/07 09:10:03 SubServer3 started
+02/07 09:10:03 Server start listening on 8888
+02/07 09:10:03 đã kết nối với MainServer
+02/07 09:10:10 a đã đăng nhập
+02/07 09:10:21 b đã đăng nhập
+02/07 09:10:26 c đã đăng nhập
+02/07 09:10:52 a đã tạo group di choi
+02/07 09:10:53 c đã được thêm vào group di choi
+02/07 09:11:02 mất kết nối tới MainServer
+02/07 09:11:02 mất kết nối tới MainServer
+02/07 09:11:02 mất kết nối tới MainServer
+02/07 09:11:15 a đã gửi 1 tin nhắn cho b
+02/07 09:11:21 Không thể gửi tin nhắn cho c
+02/07 09:11:42 a đã cập nhật lại group di choi
+02/07 09:11:42 a không thể cập nhật lại group di choi cho c
+02/07 09:13:13 a đã thoát khỏi group di choi
+02/07 09:13:13 a đã thoát
+02/07 09:13:15 b đã thoát
+02/07 09:13:17 c đã thoát khỏi group di choi
+02/07 09:13:17 Không thể gửi thông báo c thoát khỏi group di choi cho b
+02/07 09:13:17 Không thể gửi thông báo c thoát khỏi group di choi cho a
+02/07 09:13:17 c đã thoát
+02/07 09:17:18 SubServer1 started
+02/07 09:17:18 Server start listening on 6666
+02/07 09:17:18 đã kết nối với MainServer
+02/07 09:17:23 SubServer2 started
+02/07 09:17:23 Server start listening on 7777
+02/07 09:17:23 đã kết nối với MainServer
+02/07 09:17:26 SubServer3 started
+02/07 09:17:26 Server start listening on 8888
+02/07 09:17:26 đã kết nối với MainServer
+02/07 09:17:30 mất kết nối tới MainServer
+02/07 09:17:30 đã kết nối với MainServer
+02/07 09:20:56 mất kết nối tới MainServer
+02/07 09:20:56 mất kết nối tới MainServer
+02/07 09:20:56 mất kết nối tới MainServer
+02/07 09:21:40 SubServer1 started
+02/07 09:21:40 Server start listening on 6666
+02/07 09:21:40 đã kết nối với MainServer
+02/07 09:21:42 SubServer2 started
+02/07 09:21:42 Server start listening on 7777
+02/07 09:21:42 đã kết nối với MainServer
+02/07 09:21:45 SubServer3 started
+02/07 09:21:45 Server start listening on 8888
+02/07 09:21:45 đã kết nối với MainServer
+02/07 09:21:50 mất kết nối tới MainServer
+02/07 09:21:50 đã kết nối với MainServer
+02/07 09:22:24 mất kết nối tới MainServer
+02/07 09:22:24 mất kết nối tới MainServer
+02/07 09:22:24 mất kết nối tới MainServer
+02/07 09:22:42 SubServer1 started
+02/07 09:22:42 Server start listening on 6666
+02/07 09:22:42 đã kết nối với MainServer
+02/07 09:22:44 SubServer2 started
+02/07 09:22:44 Server start listening on 7777
+02/07 09:22:44 đã kết nối với MainServer
+02/07 09:22:46 SubServer3 started
+02/07 09:22:46 Server start listening on 8888
+02/07 09:22:46 đã kết nối với MainServer
+02/07 09:23:02 mất kết nối tới MainServer
+02/07 09:23:02 đã kết nối với MainServer
+02/07 09:23:19 mất kết nối tới MainServer
+02/07 09:23:19 mất kết nối tới MainServer
+02/07 09:23:19 mất kết nối tới MainServer
+02/07 09:23:41 SubServer1 started
+02/07 09:23:41 Server start listening on 6666
+02/07 09:23:41 đã kết nối với MainServer
+02/07 09:23:43 SubServer2 started
+02/07 09:23:43 Server start listening on 7777
+02/07 09:23:43 đã kết nối với MainServer
+02/07 09:23:45 SubServer3 started
+02/07 09:23:45 Server start listening on 8888
+02/07 09:23:45 đã kết nối với MainServer
+02/07 09:23:54 mất kết nối tới MainServer
+02/07 09:23:55 đã kết nối với MainServer
+02/07 09:23:56 mất kết nối tới MainServer
+02/07 09:23:57 mất kết nối tới MainServer
+02/07 09:23:57 đã kết nối với MainServer
+02/07 09:23:57 đã kết nối với MainServer
+02/07 09:23:57 mất kết nối tới MainServer
+02/07 09:23:59 đã kết nối với MainServer
+02/07 09:24:00 mất kết nối tới MainServer
+02/07 09:24:01 đã kết nối với MainServer
+02/07 09:24:09 mất kết nối tới MainServer
+02/07 09:24:09 mất kết nối tới MainServer
+02/07 09:24:11 đã kết nối với MainServer
+02/07 09:24:11 đã kết nối với MainServer
+02/07 09:24:13 mất kết nối tới MainServer
+02/07 09:24:14 mất kết nối tới MainServer
+02/07 09:24:15 đã kết nối với MainServer
+02/07 09:24:15 đã kết nối với MainServer
+02/07 09:24:15 mất kết nối tới MainServer
+02/07 09:24:16 mất kết nối tới MainServer
+02/07 09:24:16 mất kết nối tới MainServer
+02/07 09:24:17 đã kết nối với MainServer
+02/07 09:24:17 đã kết nối với MainServer
+02/07 09:24:17 đã kết nối với MainServer
+02/07 09:26:13 mất kết nối tới MainServer
+02/07 09:26:13 mất kết nối tới MainServer
+02/07 09:26:13 mất kết nối tới MainServer
+02/07 09:26:38 SubServer1 started
+02/07 09:26:38 Server start listening on 6666
+02/07 09:26:38 đã kết nối với MainServer
+02/07 09:26:40 SubServer2 started
+02/07 09:26:40 Server start listening on 7777
+02/07 09:26:40 đã kết nối với MainServer
+02/07 09:26:44 SubServer3 started
+02/07 09:26:44 Server start listening on 8888
+02/07 09:26:44 đã kết nối với MainServer
+02/07 09:26:48 mất kết nối tới MainServer
+02/07 09:26:48 đã kết nối với MainServer
+02/07 09:26:49 mất kết nối tới MainServer
+02/07 09:26:49 mất kết nối tới MainServer
+02/07 09:26:49 mất kết nối tới MainServer
+02/07 09:26:50 đã kết nối với MainServer
+02/07 09:26:50 đã kết nối với MainServer
+02/07 09:26:50 đã kết nối với MainServer
+02/07 09:28:09 SubServer1 started
+02/07 09:28:09 Server start listening on 6666
+02/07 09:28:09 đã kết nối với MainServer
+02/07 09:28:11 SubServer2 started
+02/07 09:28:11 Server start listening on 7777
+02/07 09:28:11 đã kết nối với MainServer
+02/07 09:28:13 SubServer3 started
+02/07 09:28:13 Server start listening on 8888
+02/07 09:28:13 đã kết nối với MainServer
+02/07 09:28:24 mất kết nối tới MainServer
+02/07 09:28:24 mất kết nối tới MainServer
+02/07 09:28:24 mất kết nối tới MainServer
+02/07 09:28:56 Server start listening on 8888
+02/07 09:28:56 đã kết nối với MainServer
+02/07 09:28:56 Server start listening on 6666
+02/07 09:28:56 đã kết nối với MainServer
+02/07 09:28:56 Server start listening on 7777
+02/07 09:28:56 đã kết nối với MainServer
+02/07 09:29:45 mất kết nối tới MainServer
+02/07 09:29:45 mất kết nối tới MainServer
+02/07 09:29:45 mất kết nối tới MainServer
+02/07 09:31:11 SubServer1 started
+02/07 09:31:11 Server start listening on 6666
+02/07 09:31:11 đã kết nối với MainServer
+02/07 09:31:14 SubServer2 started
+02/07 09:31:14 Server start listening on 7777
+02/07 09:31:14 đã kết nối với MainServer
+02/07 09:31:17 SubServer3 started
+02/07 09:31:17 Server start listening on 8888
+02/07 09:31:17 đã kết nối với MainServer
+02/07 09:31:20 mất kết nối tới MainServer
+02/07 09:31:21 mất kết nối tới MainServer
+02/07 09:31:21 mất kết nối tới MainServer
+02/07 09:31:52 Server start listening on 8888
+02/07 09:31:52 đã kết nối với MainServer
+02/07 09:31:52 Server start listening on 6666
+02/07 09:31:52 đã kết nối với MainServer
+02/07 09:31:52 mất kết nối tới MainServer
+02/07 09:31:53 Server start listening on 7777
+02/07 09:32:24 Server start listening on 7777
+02/07 09:32:24 đã kết nối với MainServer
+02/07 09:32:25 Server start listening on 6666
+02/07 09:32:25 đã kết nối với MainServer
+02/07 09:37:45 mất kết nối tới MainServer
+02/07 09:37:45 mất kết nối tới MainServer
+02/07 09:37:46 mất kết nối tới MainServer
+02/07 09:38:09 SubServer1 started
+02/07 09:38:09 Server start listening on 6666
+02/07 09:38:09 đã kết nối với MainServer
+02/07 09:38:12 SubServer2 started
+02/07 09:38:12 Server start listening on 7777
+02/07 09:38:12 đã kết nối với MainServer
+02/07 09:38:16 SubServer3 started
+02/07 09:38:16 Server start listening on 8888
+02/07 09:38:16 đã kết nối với MainServer
+02/07 09:38:20 mất kết nối tới MainServer
+02/07 09:38:20 mất kết nối tới MainServer
+02/07 09:38:20 mất kết nối tới MainServer
+02/07 09:38:52 Server start listening on 6666
+02/07 09:38:52 đã kết nối với MainServer
+02/07 09:38:53 Server start listening on 8888
+02/07 09:38:53 đã kết nối với MainServer
+02/07 09:38:53 Server start listening on 7777
+02/07 09:38:53 đã kết nối với MainServer
+02/07 09:41:18 SubServer1 started
+02/07 09:41:18 Server start listening on 6666
+02/07 09:41:49 đã kết nối với MainServer
+02/07 09:41:57 SubServer2 started
+02/07 09:41:57 Server start listening on 7777
+02/07 09:42:16 SubServer3 started
+02/07 09:42:16 Server start listening on 8888
+02/07 09:42:40 đã kết nối với MainServer
+02/07 09:42:45 đã kết nối với MainServer
+02/07 09:44:41 SubServer1 started
+02/07 09:44:41 Server start listening on 6666
+02/07 09:44:41 đã kết nối với MainServer
+02/07 09:44:43 SubServer2 started
+02/07 09:44:43 Server start listening on 7777
+02/07 09:44:43 đã kết nối với MainServer
+02/07 09:44:45 SubServer3 started
+02/07 09:44:45 Server start listening on 8888
+02/07 09:44:45 đã kết nối với MainServer
+02/07 09:45:08 mất kết nối tới MainServer
+02/07 09:45:09 đã kết nối với MainServer
+02/07 09:45:11 mất kết nối tới MainServer
+02/07 09:45:13 đã kết nối với MainServer
+02/07 09:46:52 mất kết nối tới MainServer
+02/07 09:46:52 mất kết nối tới MainServer
+02/07 09:46:52 mất kết nối tới MainServer
+02/07 09:47:13 SubServer1 started
+02/07 09:47:13 Server start listening on 6666
+02/07 09:47:13 đã kết nối với MainServer
+02/07 09:47:24 SubServer2 started
+02/07 09:47:24 Server start listening on 7777
+02/07 09:47:24 đã kết nối với MainServer
+02/07 09:47:30 SubServer3 started
+02/07 09:47:30 Server start listening on 8888
+02/07 09:47:30 đã kết nối với MainServer
+02/07 09:47:52 mất kết nối tới MainServer
+02/07 09:48:24 Server start listening on 6666
+02/07 09:48:24 đã kết nối với MainServer
+02/07 09:50:54 mất kết nối tới MainServer
+02/07 09:50:54 mất kết nối tới MainServer
+02/07 09:50:54 mất kết nối tới MainServer
+02/07 09:51:25 Server start listening on 7777
+02/07 09:51:25 đã kết nối với MainServer
+02/07 09:51:25 Server start listening on 8888
+02/07 09:51:25 đã kết nối với MainServer
+02/07 09:51:25 Server start listening on 6666
+02/07 09:51:25 đã kết nối với MainServer
+02/07 09:52:03 SubServer1 started
+02/07 09:52:03 Server start listening on 6666
+02/07 09:52:43 SubServer1 started
+02/07 09:52:43 Server start listening on 6666
+02/07 09:52:43 đã kết nối với MainServer
+02/07 09:52:47 SubServer2 started
+02/07 09:52:47 Server start listening on 7777
+02/07 09:52:47 đã kết nối với MainServer
+02/07 09:52:50 SubServer3 started
+02/07 09:52:50 Server start listening on 8888
+02/07 09:52:50 đã kết nối với MainServer
+02/07 09:52:57 mất kết nối tới MainServer
+02/07 09:53:28 Server start listening on 6666
+02/07 09:53:28 đã kết nối với MainServer
+02/07 09:54:08 SubServer1 started
+02/07 09:54:08 Server start listening on 6666
+02/07 09:54:08 đã kết nối với MainServer
+02/07 09:54:13 SubServer2 started
+02/07 09:54:13 Server start listening on 7777
+02/07 09:54:13 đã kết nối với MainServer
+02/07 09:54:16 SubServer3 started
+02/07 09:54:16 Server start listening on 8888
+02/07 09:54:16 đã kết nối với MainServer
+02/07 09:54:28 mất kết nối tới MainServer
+02/07 09:54:33 mất kết nối tới MainServer
+02/07 09:54:37 mất kết nối tới MainServer
+02/07 09:55:01 Server start listening on 6666
+02/07 09:55:01 đã kết nối với MainServer
+02/07 09:55:06 Server start listening on 7777
+02/07 09:55:06 đã kết nối với MainServer
+02/07 09:55:09 Server start listening on 8888
+02/07 09:55:09 đã kết nối với MainServer
+02/07 09:55:42 mất kết nối tới MainServer
+02/07 09:55:42 mất kết nối tới MainServer
+02/07 09:55:42 mất kết nối tới MainServer
+02/07 09:56:14 Server start listening on 6666
+02/07 09:56:14 đã kết nối với MainServer
+02/07 09:56:14 Server start listening on 8888
+02/07 09:56:14 đã kết nối với MainServer
+02/07 09:56:15 Server start listening on 7777
+02/07 09:56:15 đã kết nối với MainServer
+02/07 09:58:11 SubServer1 started
+02/07 09:58:11 Server start listening on 6666
+02/07 09:58:11 đã kết nối với MainServer
+02/07 09:58:14 SubServer2 started
+02/07 09:58:14 Server start listening on 7777
+02/07 09:58:14 đã kết nối với MainServer
+02/07 09:58:19 SubServer3 started
+02/07 09:58:19 Server start listening on 8888
+02/07 09:58:19 đã kết nối với MainServer
+02/07 10:00:17 mất kết nối tới MainServer
+02/07 10:00:17 mất kết nối tới MainServer
+02/07 10:00:17 mất kết nối tới MainServer
+02/07 10:00:44 SubServer1 started
+02/07 10:00:44 Server start listening on 6666
+02/07 10:00:44 đã kết nối với MainServer
+02/07 10:00:51 SubServer2 started
+02/07 10:00:51 Server start listening on 7777
+02/07 10:00:51 đã kết nối với MainServer
+02/07 10:00:56 SubServer3 started
+02/07 10:00:56 Server start listening on 8888
+02/07 10:00:56 đã kết nối với MainServer
+02/07 10:01:45 mất kết nối tới MainServer
+02/07 10:01:46 mất kết nối tới MainServer
+02/07 10:01:47 mất kết nối tới MainServer
+02/07 10:02:17 Server start listening on 6666
+02/07 10:02:18 Server start listening on 7777
+02/07 10:02:19 Server start listening on 8888
+02/07 10:02:48 Server start listening on 6666
+02/07 10:02:48 đã kết nối với MainServer
+02/07 10:02:49 Server start listening on 7777
+02/07 10:02:49 đã kết nối với MainServer
+02/07 10:02:50 Server start listening on 8888
+02/07 10:02:50 đã kết nối với MainServer
+02/07 10:03:03 mất kết nối tới MainServer
+02/07 10:03:03 mất kết nối tới MainServer
+02/07 10:03:03 mất kết nối tới MainServer
+02/07 10:03:45 SubServer1 started
+02/07 10:03:45 Server start listening on 6666
+02/07 10:03:50 SubServer2 started
+02/07 10:03:50 Server start listening on 7777
+02/07 10:03:55 SubServer3 started
+02/07 10:03:55 Server start listening on 8888
+02/07 10:04:16 Server start listening on 6666
+02/07 10:04:16 đã kết nối với MainServer
+02/07 10:04:21 Server start listening on 7777
+02/07 10:04:21 đã kết nối với MainServer
+02/07 10:04:26 Server start listening on 8888
+02/07 10:04:26 đã kết nối với MainServer
+02/07 10:07:48 SubServer1 started
+02/07 10:07:48 Server start listening on 6666
+02/07 10:07:52 SubServer2 started
+02/07 10:07:52 Server start listening on 7777
+02/07 10:07:55 SubServer3 started
+02/07 10:07:55 Server start listening on 8888
+02/07 10:08:02 đã kết nối với MainServer
+02/07 10:08:02 đã kết nối với MainServer
+02/07 10:08:02 đã kết nối với MainServer
+02/07 10:08:12 mất kết nối tới MainServer
+02/07 10:08:12 mất kết nối tới MainServer
+02/07 10:08:12 mất kết nối tới MainServer
+02/07 10:08:21 đã kết nối với MainServer
+02/07 10:08:21 đã kết nối với MainServer
+02/07 10:08:21 đã kết nối với MainServer
+02/07 10:09:09 a đã đăng nhập
+02/07 10:09:18 b đã đăng nhập
+02/07 10:09:27 c đã đăng nhập
+02/07 10:09:43 a đã gửi 1 tin nhắn cho b
+02/07 10:09:59 a đã gửi 1 tin nhắn cho c
+02/07 10:10:00 c đã nhận được tin nhắn của a
+02/07 10:10:18 a đã tạo group di choi
+02/07 10:10:19 c đã được thêm vào group di choi
+02/07 10:10:50 a đã gửi 1 tin nhắn cho group di choi
+02/07 10:11:09 mất kết nối tới MainServer
+02/07 10:11:09 mất kết nối tới MainServer
+02/07 10:11:09 mất kết nối tới MainServer
+02/07 10:11:17 a đã gửi 1 tin nhắn cho group di choi
+02/07 10:11:17 Không thể gửi tin nhắn cho c trong group di choi
+02/07 10:11:30 đã kết nối với MainServer
+02/07 10:11:30 đã kết nối với MainServer
+02/07 10:11:30 đã kết nối với MainServer
+02/07 10:11:35 a đã gửi 1 tin nhắn cho group di choi
+02/07 10:12:08 mất kết nối tới MainServer
+02/07 10:12:08 mất kết nối tới MainServer
+02/07 10:12:08 mất kết nối tới MainServer
+02/07 10:12:13 c đã thoát
+02/07 10:12:13 Thread destroyed
+02/07 10:12:27 đã kết nối với MainServer
+02/07 10:12:27 đã kết nối với MainServer
+02/07 10:12:40 a đã gửi 1 tin nhắn cho c
+02/07 10:13:03 b đã thoát
+02/07 10:13:04 a đã thoát khỏi group di choi
+02/07 10:13:04 a đã thoát
+02/07 11:14:31 SubServer1 started
+02/07 11:14:31 Server start listening on 6666
+02/07 11:14:31 đã kết nối với MainServer
+02/07 11:14:42 SubServer2 started
+02/07 11:14:42 Server start listening on 7777
+02/07 11:14:42 đã kết nối với MainServer
+02/07 11:14:47 SubServer3 started
+02/07 11:14:47 Server start listening on 8888
+02/07 11:14:47 đã kết nối với MainServer
+02/07 11:14:54 a đã đăng nhập
+02/07 11:15:17 b đã đăng nhập
+02/07 11:15:34 c đã đăng nhập
+02/07 11:15:57 c đã thoát
+02/07 11:15:57 Thread destroyed
+02/07 11:18:45 SubServer2 started
+02/07 11:18:45 Server start listening on 7777
+02/07 11:19:35 b đã thoát
+02/07 11:19:35 mất kết nối tới MainServer
+02/07 11:19:35 đã kết nối với MainServer
+02/07 11:19:38 a đã thoát
+02/07 11:20:22 SubServer1 started
+02/07 11:20:22 Server start listening on 6666
+02/07 11:20:22 đã kết nối với MainServer
+02/07 11:20:25 SubServer2 started
+02/07 11:20:25 Server start listening on 7777
+02/07 11:20:25 đã kết nối với MainServer
+02/07 11:20:29 SubServer3 started
+02/07 11:20:29 Server start listening on 8888
+02/07 11:20:29 đã kết nối với MainServer
+02/07 11:21:54 a đã đăng nhập
+02/07 11:22:06 b đã đăng nhập
+02/07 11:22:14 c đã đăng nhập
+02/07 11:22:30 c đã thoát
+02/07 11:22:30 mất kết nối tới MainServer
+02/07 11:22:30 Thread destroyed
+02/07 11:22:48 SubServer2 started
+02/07 11:22:48 Server start listening on 7777
+02/07 11:22:48 đã kết nối với MainServer
+02/07 11:32:49 b đã thoát
+02/07 11:32:52 a đã thoát
+02/07 11:33:04 mất kết nối tới MainServer
+02/07 11:33:04 Thread destroyed
+02/07 11:33:20 mất kết nối tới MainServer
+02/07 11:33:20 mất kết nối tới MainServer
+02/07 11:33:50 đã kết nối với MainServer
+02/07 11:33:51 đã kết nối với MainServer
+02/07 11:44:23 SubServer1 started
+02/07 11:44:23 Server start listening on 6666
+02/07 11:44:23 đã kết nối với MainServer
+02/07 11:44:26 SubServer2 started
+02/07 11:44:26 Server start listening on 7777
+02/07 11:44:26 đã kết nối với MainServer
+02/07 11:44:29 SubServer3 started
+02/07 11:44:29 Server start listening on 8888
+02/07 11:44:29 đã kết nối với MainServer
+02/07 11:45:33 mất kết nối tới MainServer
+02/07 11:45:33 mất kết nối tới MainServer
+02/07 11:45:33 mất kết nối tới MainServer
+02/07 11:45:41 Thread destroyed
+02/07 11:46:03 đã kết nối với MainServer
+02/07 11:46:03 đã kết nối với MainServer
+02/07 11:48:40 SubServer1 started
+02/07 11:48:40 Server start listening on 6666
+02/07 11:48:40 đã kết nối với MainServer
+02/07 11:48:44 mất kết nối tới MainServer
+02/07 11:49:14 đã kết nối với MainServer
+02/07 11:53:54 SubServer1 started
+02/07 11:53:54 Server start listening on 6666
+02/07 11:53:54 đã kết nối với MainServer
+02/07 11:53:57 SubServer2 started
+02/07 11:53:57 Server start listening on 7777
+02/07 11:53:57 đã kết nối với MainServer
+02/07 11:54:15 mất kết nối tới MainServer
+02/07 11:54:15 mất kết nối tới MainServer
+02/07 11:54:45 đã kết nối với MainServer
+02/07 11:54:45 đã kết nối với MainServer
+02/07 11:55:30 SubServer1 started
+02/07 11:55:30 Server start listening on 6666
+02/07 11:55:30 đã kết nối với MainServer
+02/07 11:55:33 SubServer2 started
+02/07 11:55:33 Server start listening on 7777
+02/07 11:55:33 đã kết nối với MainServer
+02/07 11:55:54 mất kết nối tới MainServer
+02/07 11:55:54 mất kết nối tới MainServer
+02/07 11:56:24 đã kết nối với MainServer
+02/07 11:56:24 đã kết nối với MainServer
+02/07 11:58:25 SubServer1 started
+02/07 11:58:25 Server start listening on 6666
+02/07 11:58:25 đã kết nối với MainServer
+02/07 11:58:27 SubServer2 started
+02/07 11:58:27 Server start listening on 7777
+02/07 11:58:27 đã kết nối với MainServer
+02/07 11:58:32 mất kết nối tới MainServer
+02/07 11:58:32 mất kết nối tới MainServer
+02/07 11:59:03 đã kết nối với MainServer
+02/07 11:59:03 đã kết nối với MainServer
+02/07 11:59:26 SubServer1 started
+02/07 11:59:26 Server start listening on 6666
+02/07 11:59:26 đã kết nối với MainServer
+02/07 11:59:29 SubServer2 started
+02/07 11:59:29 Server start listening on 7777
+02/07 11:59:29 đã kết nối với MainServer
+02/07 11:59:31 mất kết nối tới MainServer
+02/07 11:59:31 mất kết nối tới MainServer
+02/07 12:00:04 SubServer1 started
+02/07 12:00:04 Server start listening on 6666
+02/07 12:00:04 đã kết nối với MainServer
+02/07 12:00:06 SubServer2 started
+02/07 12:00:06 Server start listening on 7777
+02/07 12:00:06 đã kết nối với MainServer
+02/07 12:00:19 mất kết nối tới MainServer
+02/07 12:00:20 mất kết nối tới MainServer
+02/07 12:00:45 đã kết nối với MainServer
+02/07 12:00:45 đã kết nối với MainServer
+02/07 12:00:51 mất kết nối tới MainServer
+02/07 12:00:51 mất kết nối tới MainServer
+02/07 14:05:42 SubServer1 started
+02/07 14:05:42 Server start listening on 6666
+02/07 14:05:42 đã kết nối với MainServer
+02/07 14:05:57 mất kết nối tới MainServer
+02/07 14:06:25 đã kết nối với MainServer
+02/07 14:06:29 mất kết nối tới MainServer
+02/07 14:06:58 đã kết nối với MainServer
+02/07 14:17:48 mất kết nối tới MainServer
+02/07 14:18:39 SubServer1 started
+02/07 14:18:39 Server start listening on 6666
+02/07 14:18:39 đã kết nối với MainServer
+02/07 14:18:42 SubServer2 started
+02/07 14:18:42 Server start listening on 7777
+02/07 14:18:42 đã kết nối với MainServer
+02/07 14:18:56 mất kết nối tới MainServer
+02/07 14:19:08 mất kết nối tới MainServer
+02/07 14:19:24 đã kết nối với MainServer
+02/07 14:19:24 đã kết nối với MainServer
+02/07 14:35:34 mất kết nối tới MainServer
+02/07 14:35:34 mất kết nối tới MainServer
+02/07 14:35:59 SubServer1 started
+02/07 14:35:59 Server start listening on 6666
+02/07 14:35:59 đã kết nối với MainServer
+02/07 14:36:04 SubServer2 started
+02/07 14:36:04 Server start listening on 7777
+02/07 14:36:04 đã kết nối với MainServer
+02/07 14:36:13 mất kết nối tới MainServer
+02/07 14:36:13 mất kết nối tới MainServer
+02/07 14:36:43 đã kết nối với MainServer
+02/07 14:36:43 đã kết nối với MainServer
+02/07 14:59:25 mất kết nối tới MainServer
+02/07 14:59:25 mất kết nối tới MainServer
+02/07 15:02:00 đã kết nối với MainServer
+02/07 15:02:00 đã kết nối với MainServer
+02/07 15:02:53 SubServer3 started
+02/07 15:02:53 Server start listening on 8888
+02/07 15:02:53 đã kết nối với MainServer
+02/07 15:08:23 mất kết nối tới MainServer
+02/07 15:08:23 mất kết nối tới MainServer
+02/07 15:08:23 mất kết nối tới MainServer
+02/07 15:08:30 đã kết nối với MainServer
+02/07 15:08:30 đã kết nối với MainServer
+02/07 15:08:30 đã kết nối với MainServer
+02/07 15:08:44 SubServer1 started
+02/07 15:08:44 Server start listening on 6666
+02/07 15:08:44 đã kết nối với MainServer
+02/07 15:08:50 SubServer1 stopped
+02/07 15:08:58 SubServer1 started
+02/07 15:08:58 Server start listening on 6666
+02/07 15:08:58 đã kết nối với MainServer
+02/07 15:09:06 SubServer1 stopped
+02/07 15:09:11 SubServer1 started
+02/07 15:09:11 Server start listening on 6666
+02/07 15:09:11 đã kết nối với MainServer
+02/07 15:09:23 SubServer2 started
+02/07 15:09:23 Server start listening on 7777
+02/07 15:09:23 đã kết nối với MainServer
+02/07 15:09:28 SubServer3 started
+02/07 15:09:28 Server start listening on 8888
+02/07 15:09:28 đã kết nối với MainServer
+02/07 15:09:38 SubServer3 stopped
+02/07 15:09:46 SubServer3 started
+02/07 15:09:46 Server start listening on 8888
+02/07 15:09:46 đã kết nối với MainServer
+02/07 15:10:07 SubServer1 stopped
+02/07 15:10:08 SubServer1 started
+02/07 15:10:08 Server start listening on 6666
+02/07 15:10:08 đã kết nối với MainServer
+02/07 15:10:34 SubServer1 stopped
+02/07 15:10:35 SubServer2 stopped
+02/07 15:10:35 SubServer1 started
+02/07 15:10:35 Server start listening on 6666
+02/07 15:10:35 đã kết nối với MainServer
+02/07 15:10:36 SubServer3 stopped
+02/07 15:10:37 SubServer2 started
+02/07 15:10:37 Server start listening on 7777
+02/07 15:10:37 đã kết nối với MainServer
+02/07 15:10:38 SubServer3 started
+02/07 15:10:38 Server start listening on 8888
+02/07 15:10:38 đã kết nối với MainServer
+02/07 15:10:54 SubServer3 stopped
+02/07 15:10:57 SubServer3 started
+02/07 15:10:57 Server start listening on 8888
+02/07 15:10:57 đã kết nối với MainServer
+02/07 15:12:20 mất kết nối tới MainServer
+02/07 15:12:20 mất kết nối tới MainServer
+02/07 15:12:20 mất kết nối tới MainServer
+02/07 15:12:28 đã kết nối với MainServer
+02/07 15:12:28 đã kết nối với MainServer
+02/07 15:12:28 đã kết nối với MainServer
+02/07 15:12:32 SubServer1 stopped
+02/07 15:12:37 SubServer1 started
+02/07 15:12:37 Server start listening on 6666
+02/07 15:12:37 đã kết nối với MainServer
+02/07 15:16:18 mất kết nối tới MainServer
+02/07 15:16:18 mất kết nối tới MainServer
+02/07 15:16:18 mất kết nối tới MainServer
+02/07 15:16:24 đã kết nối với MainServer
+02/07 15:16:24 đã kết nối với MainServer
+02/07 15:16:25 đã kết nối với MainServer
+02/07 15:16:31 mất kết nối tới MainServer
+02/07 15:16:31 mất kết nối tới MainServer
+02/07 15:16:31 mất kết nối tới MainServer
+02/07 15:16:37 đã kết nối với MainServer
+02/07 15:16:37 đã kết nối với MainServer
+02/07 15:16:38 đã kết nối với MainServer
+02/07 15:16:44 mất kết nối tới MainServer
+02/07 15:16:44 mất kết nối tới MainServer
+02/07 15:16:44 mất kết nối tới MainServer
+02/07 15:16:46 đã kết nối với MainServer
+02/07 15:16:47 đã kết nối với MainServer
+02/07 15:16:47 đã kết nối với MainServer
+02/07 15:16:52 SubServer1 stopped
+02/07 15:16:53 mất kết nối tới MainServer
+02/07 15:16:53 mất kết nối tới MainServer
+02/07 15:16:59 SubServer1 started
+02/07 15:16:59 Server start listening on 6666
+02/07 15:17:23 đã kết nối với MainServer
+02/07 15:17:23 đã kết nối với MainServer
+02/07 15:17:23 đã kết nối với MainServer
+02/07 15:17:29 mất kết nối tới MainServer
+02/07 15:17:29 mất kết nối tới MainServer
+02/07 15:17:29 mất kết nối tới MainServer
+02/07 15:17:55 đã kết nối với MainServer
+02/07 15:17:55 đã kết nối với MainServer
+02/07 15:17:55 đã kết nối với MainServer
+02/07 15:18:01 mất kết nối tới MainServer
+02/07 15:18:01 mất kết nối tới MainServer
+02/07 15:18:01 mất kết nối tới MainServer
+02/07 15:18:31 Error occured: null
+02/07 15:18:31 SubServer3 stopped
+02/07 15:18:32 Error occured: null
+02/07 15:18:32 SubServer2 stopped
+02/07 15:18:32 SubServer3 started
+02/07 15:18:32 Server start listening on 8888
+02/07 15:18:34 Error occured: null
+02/07 15:18:34 SubServer1 stopped
+02/07 15:18:34 SubServer2 started
+02/07 15:18:34 Server start listening on 7777
+02/07 15:18:36 SubServer1 started
+02/07 15:18:36 Server start listening on 6666
+02/07 15:18:43 đã kết nối với MainServer
+02/07 15:18:43 đã kết nối với MainServer
+02/07 15:18:43 đã kết nối với MainServer
+02/07 15:18:49 mất kết nối tới MainServer
+02/07 15:18:49 mất kết nối tới MainServer
+02/07 15:18:49 mất kết nối tới MainServer
+02/07 15:18:58 đã kết nối với MainServer
+02/07 15:18:58 đã kết nối với MainServer
+02/07 15:18:58 đã kết nối với MainServer
+02/07 15:19:04 mất kết nối tới MainServer
+02/07 15:19:04 mất kết nối tới MainServer
+02/07 15:19:04 mất kết nối tới MainServer
+02/07 15:19:34 đã kết nối với MainServer
+02/07 15:19:34 đã kết nối với MainServer
+02/07 15:19:35 đã kết nối với MainServer
+02/07 15:19:41 mất kết nối tới MainServer
+02/07 15:19:41 mất kết nối tới MainServer
+02/07 15:19:41 mất kết nối tới MainServer
+02/07 15:20:11 đã kết nối với MainServer
+02/07 15:20:11 đã kết nối với MainServer
+02/07 15:20:11 đã kết nối với MainServer
+02/07 15:20:17 mất kết nối tới MainServer
+02/07 15:20:17 mất kết nối tới MainServer
+02/07 15:20:17 mất kết nối tới MainServer
+02/07 15:20:47 đã kết nối với MainServer
+02/07 15:20:47 đã kết nối với MainServer
+02/07 15:20:48 đã kết nối với MainServer
+02/07 15:20:54 mất kết nối tới MainServer
+02/07 15:20:54 mất kết nối tới MainServer
+02/07 15:20:54 mất kết nối tới MainServer
+02/07 15:21:24 đã kết nối với MainServer
+02/07 15:21:24 đã kết nối với MainServer
+02/07 15:21:24 đã kết nối với MainServer
+02/07 15:21:30 mất kết nối tới MainServer
+02/07 15:21:30 mất kết nối tới MainServer
+02/07 15:21:30 mất kết nối tới MainServer
+02/07 15:21:38 u1 đã đăng nhập
+02/07 15:22:00 đã kết nối với MainServer
+02/07 15:22:00 đã kết nối với MainServer
+02/07 15:22:00 đã kết nối với MainServer
+02/07 15:22:06 mất kết nối tới MainServer
+02/07 15:22:06 mất kết nối tới MainServer
+02/07 15:22:06 mất kết nối tới MainServer
+02/07 15:22:36 đã kết nối với MainServer
+02/07 15:22:36 đã kết nối với MainServer
+02/07 15:22:37 đã kết nối với MainServer
+02/07 15:22:43 mất kết nối tới MainServer
+02/07 15:22:43 mất kết nối tới MainServer
+02/07 15:22:43 mất kết nối tới MainServer
+02/07 15:22:57 u1 đã thoát
+02/07 15:24:21 đã kết nối với MainServer
+02/07 15:24:21 đã kết nối với MainServer
+02/07 15:24:21 đã kết nối với MainServer
+02/07 15:24:41 mất kết nối tới MainServer
+02/07 15:24:41 mất kết nối tới MainServer
+02/07 15:24:41 mất kết nối tới MainServer
+02/07 15:24:48 đã kết nối với MainServer
+02/07 15:24:48 đã kết nối với MainServer
+02/07 15:24:48 đã kết nối với MainServer
+02/07 15:25:37 mất kết nối tới MainServer
+02/07 15:25:37 mất kết nối tới MainServer
+02/07 15:25:37 mất kết nối tới MainServer
+02/07 15:26:17 đã kết nối với MainServer
+02/07 15:26:17 đã kết nối với MainServer
+02/07 15:26:17 đã kết nối với MainServer
+02/07 15:26:35 mất kết nối tới MainServer
+02/07 15:26:35 mất kết nối tới MainServer
+02/07 15:26:35 mất kết nối tới MainServer
+02/07 15:27:05 đã kết nối với MainServer
+02/07 15:27:05 đã kết nối với MainServer
+02/07 15:27:05 đã kết nối với MainServer
+02/07 15:27:36 mất kết nối tới MainServer
+02/07 15:27:36 mất kết nối tới MainServer
+02/07 15:27:36 mất kết nối tới MainServer
+02/07 15:28:31 đã kết nối với MainServer
+02/07 15:28:31 đã kết nối với MainServer
+02/07 15:28:31 đã kết nối với MainServer
+02/07 15:28:37 mất kết nối tới MainServer
+02/07 15:28:37 mất kết nối tới MainServer
+02/07 15:28:37 mất kết nối tới MainServer
+02/07 15:28:57 đã kết nối với MainServer
+02/07 15:28:57 đã kết nối với MainServer
+02/07 15:28:57 đã kết nối với MainServer
+02/07 15:29:03 mất kết nối tới MainServer
+02/07 15:29:03 mất kết nối tới MainServer
+02/07 15:29:03 mất kết nối tới MainServer
+02/07 15:29:24 đã kết nối với MainServer
+02/07 15:29:24 đã kết nối với MainServer
+02/07 15:29:24 đã kết nối với MainServer
+02/07 15:29:59 u1 đã đăng nhập
+02/07 15:30:25 u2 đã đăng nhập
+02/07 15:31:42 u1 đã gửi 1 tin nhắn cho u2
+02/07 15:31:42 u2 đã nhận được tin nhắn của u1
+02/07 15:32:02 mất kết nối tới MainServer
+02/07 15:32:03 mất kết nối tới MainServer
+02/07 15:32:03 mất kết nối tới MainServer
+02/07 15:32:09 Không thể gửi tin nhắn cho u2
+02/07 15:32:52 đã kết nối với MainServer
+02/07 15:32:53 đã kết nối với MainServer
+02/07 15:32:53 đã kết nối với MainServer
+02/07 15:33:00 u1 đã gửi 1 tin nhắn cho u2
+02/07 15:33:01 u2 đã nhận được tin nhắn của u1
+02/07 15:33:10 u2 đã gửi 1 tin nhắn cho u1
+02/07 15:33:10 u1 đã nhận được tin nhắn của u2
+02/07 15:34:00 u1 đã tạo group g1
+02/07 15:34:01 u2 đã được thêm vào group g1
+02/07 15:34:10 u1 đã gửi 1 tin nhắn cho group g1
+02/07 15:34:20 u2 đã gửi 1 tin nhắn cho group g1
+02/07 15:34:55 u1 đã tạo group g2
+02/07 15:34:56 u2 đã được thêm vào group g2
+02/07 15:35:04 u1 đã gửi 1 tin nhắn cho group g2
+02/07 15:35:33 u3 đã đăng nhập
+02/07 15:35:43 u3 đã tạo group g3
+02/07 15:35:44 u1 đã được thêm vào group g3
+02/07 15:36:02 u3 đã gửi 1 tin nhắn cho group g3
+02/07 15:36:21 u2 đã gửi 1 tin nhắn cho group g1
+02/07 15:36:31 u1 đã gửi 1 tin nhắn cho group g1
+02/07 15:36:39 u1 đã gửi 1 tin nhắn cho group g3
+02/07 15:36:45 u3 đã gửi 1 tin nhắn cho group g3
+02/07 15:36:57 u1 đã thoát khỏi group g1
+02/07 15:37:07 u2 đã thoát khỏi group g1
+02/07 15:37:53 u3 đã cập nhật lại group g3
+02/07 15:38:10 u1 đã cập nhật lại group g3
+02/07 15:38:27 u2 đã gửi 1 tin nhắn cho group g3
+02/07 15:39:36 u1 đã thoát khỏi group g2
+02/07 15:39:36 u1 đã thoát khỏi group g3
+02/07 15:39:36 u1 đã thoát
+02/07 15:39:40 u3 đã thoát
+02/07 15:39:44 u2 đã thoát
+02/07 16:20:08 SubServer1 started
+02/07 16:20:08 Server start listening on 6666

@@ -1,0 +1,135 @@
+06/07 08:51:58 SubServer started
+06/07 08:51:58 mất kết nối tới MainServer
+06/07 08:51:58 Server start listening on 6666
+06/07 08:51:58 đã kết nối với MainServer
+06/07 08:53:19 a đã đăng nhập
+06/07 08:53:30 b đã đăng nhập
+06/07 08:54:40 a đã gửi 1 tin nhắn cho b
+06/07 08:55:58 a đã gửi 1 tin nhắn cho c
+06/07 09:30:50 mất kết nối tới MainServer
+06/07 09:31:44 SubServer started
+06/07 09:31:44 Server start listening on 6666
+06/07 09:31:44 mất kết nối tới MainServer
+06/07 09:31:44 đã kết nối với MainServer
+06/07 09:32:10 a đã đăng nhập
+06/07 09:44:13 SubServer started
+06/07 09:44:13 mất kết nối tới MainServer
+06/07 09:44:13 Server start listening on 6666
+06/07 09:44:13 đã kết nối với MainServer
+06/07 09:44:38 a đã đăng nhập
+06/07 09:47:02 SubServer started
+06/07 09:47:02 mất kết nối tới MainServer
+06/07 09:47:02 Server start listening on 6666
+06/07 09:47:02 đã kết nối với MainServer
+06/07 09:47:12 a đã đăng nhập
+06/07 09:49:27 mất kết nối tới MainServer
+06/07 09:50:15 SubServer started
+06/07 09:50:15 Server start listening on 6666
+06/07 09:50:15 mất kết nối tới MainServer
+06/07 09:50:15 đã kết nối với MainServer
+06/07 09:50:26 a đã đăng nhập
+06/07 09:52:03 mất kết nối tới MainServer
+06/07 09:54:48 SubServer started
+06/07 09:54:48 mất kết nối tới MainServer
+06/07 09:54:48 Server start listening on 6666
+06/07 09:54:48 đã kết nối với MainServer
+06/07 09:55:03 a đã đăng nhập
+06/07 09:57:16 Đã ngắt kết nối tới a
+06/07 09:59:11 mất kết nối tới MainServer
+06/07 10:01:02 SubServer started
+06/07 10:01:02 mất kết nối tới MainServer
+06/07 10:01:02 Server start listening on 6666
+06/07 10:01:02 đã kết nối với MainServer
+06/07 10:01:17 a đã đăng nhập
+06/07 10:01:45 a đã gửi 1 tin nhắn cho b
+06/07 10:04:04 a đã nhận được tin nhắn của c
+06/07 10:04:30 a đã gửi 1 tin nhắn cho b
+06/07 10:04:36 a đã gửi 1 tin nhắn cho b
+06/07 10:04:57 Đã ngắt kết nối tới a
+06/07 10:05:07 mất kết nối tới MainServer
+06/07 10:07:00 SubServer started
+06/07 10:07:00 Server start listening on 6666
+06/07 10:07:00 mất kết nối tới MainServer
+06/07 10:07:00 đã kết nối với MainServer
+06/07 10:07:25 a đã đăng nhập
+06/07 10:12:44 SubServer started
+06/07 10:12:44 mất kết nối tới MainServer
+06/07 10:12:44 Server start listening on 6666
+06/07 10:12:44 đã kết nối với MainServer
+06/07 10:13:05 a đã đăng nhập
+06/07 10:13:17 b đã đăng nhập
+06/07 10:13:58 Đã ngắt kết nối tới a
+06/07 10:13:58 Đã ngắt kết nối tới b
+06/07 10:13:58 SubServer stopped
+06/07 10:16:12 SubServer started
+06/07 10:16:12 mất kết nối tới MainServer
+06/07 10:16:12 Server start listening on 6666
+06/07 10:16:12 đã kết nối với MainServer
+06/07 10:16:30 a đã đăng nhập
+06/07 10:17:13 mất kết nối tới MainServer
+06/07 10:31:11 SubServer started
+06/07 10:31:11 mất kết nối tới MainServer
+06/07 10:31:11 Server start listening on 6666
+06/07 10:31:28 a đã đăng nhập
+06/07 10:33:28 Đã ngắt kết nối tới a
+06/07 17:01:06 SubServer started
+06/07 17:01:06 Server start listening on 6666
+06/07 17:01:06 đã kết nối với MainServer
+06/07 17:01:56 a đã đăng nhập
+06/07 17:02:34 b đã đăng nhập
+06/07 17:03:42 b đã gửi 1 tin nhắn cho a
+06/07 17:04:07 Đã ngắt kết nối tới a
+06/07 17:04:11 Đã ngắt kết nối tới b
+06/07 17:04:17 mất kết nối tới MainServer
+06/07 17:05:31 SubServer started
+06/07 17:05:31 Server start listening on 6666
+06/07 17:05:31 đã kết nối với MainServer
+06/07 17:06:01 a đã đăng nhập
+06/07 17:06:22 b đã đăng nhập
+06/07 17:07:26 b đã gửi 1 tin nhắn cho c
+06/07 17:07:52 b đã gửi 1 tin nhắn cho d
+06/07 17:10:02 a đã nhận được tin nhắn của c
+06/07 17:10:40 a đã gửi 1 tin nhắn cho c
+06/07 17:13:28 Đã ngắt kết nối tới a
+06/07 17:13:34 Đã ngắt kết nối tới b
+06/07 17:15:24 SubServer started
+06/07 17:15:24 Server start listening on 6666
+06/07 17:15:24 đã kết nối với MainServer
+06/07 17:15:46 a đã đăng nhập
+06/07 17:15:56 b đã đăng nhập
+06/07 17:16:16 a đã gửi 1 tin nhắn cho c
+06/07 17:16:42 mất kết nối tới MainServer
+06/07 17:16:54 Không thể gửi tin nhắn cho c
+06/07 17:17:07 a đã gửi 1 tin nhắn cho b
+06/07 17:17:13 Không thể gửi tin nhắn cho c
+06/07 17:17:20 đã kết nối với MainServer
+06/07 17:17:30 a đã gửi 1 tin nhắn cho c
+06/07 17:18:01 mất kết nối tới MainServer
+06/07 22:29:40 SubServer started
+06/07 22:29:40 Server start listening on 6666
+06/07 22:29:40 đã kết nối với MainServer
+06/07 22:30:59 mất kết nối tới MainServer
+06/07 22:31:51 Thread destroyed
+06/07 22:32:09 SubServer started
+06/07 22:32:09 Server start listening on 6666
+06/07 22:32:09 đã kết nối với MainServer
+06/07 22:32:51 mất kết nối tới MainServer
+06/07 22:33:59 đã kết nối với MainServer
+06/07 22:35:10 a đã đăng nhập
+06/07 22:35:54 mất kết nối tới MainServer
+06/07 22:36:10 đã kết nối với MainServer
+06/07 22:40:27 Đã ngắt kết nối tới a
+06/07 22:41:42 mất kết nối tới MainServer
+06/07 23:42:00 SubServer started
+06/07 23:42:00 Server start listening on 6666
+06/07 23:42:00 đã kết nối với MainServer
+06/07 23:42:50 a đã đăng nhập
+06/07 23:43:01 b đã đăng nhập
+06/07 23:43:48 a đã gửi 1 tin nhắn cho d
+06/07 23:44:27 a đã gửi 1 tin nhắn cho b
+06/07 23:44:47 mất kết nối tới MainServer
+06/07 23:45:34 đã kết nối với MainServer
+06/07 23:46:24 a đã nhận được tin nhắn của c
+06/07 23:48:54 Đã ngắt kết nối tới a
+06/07 23:49:00 Đã ngắt kết nối tới b
+06/07 23:49:02 mất kết nối tới MainServer
